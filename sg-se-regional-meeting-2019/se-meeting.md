@@ -3,7 +3,6 @@ slidenumbers: true
 
 ## A Practical Application of Drone Technology - A Quick How to
 
-
 ### Mike Wilson, APSU GIS Director
 
 
@@ -59,7 +58,6 @@ slidenumbers: true
 
 ---
 
-
 # A Note on Software
 
 - Software is required to Process Drone Imagery
@@ -79,24 +77,8 @@ slidenumbers: true
 # Where do drones fit on your campus?
 
 - At APSU - UAV are a tool not a science
-
----
-
-## Schrödinger equation
-
-The simplest way to write the time-independent Schrödinger equation is $$H\psi = E\psi$$, however, with the Hamiltonian operator expanded it becomes:
-
-$$
--\frac{\hbar^2}{2m} \frac{d^2 \psi}{dx^2} + V\psi = E\psi
-$$
-
----
-
-# Captioned Images and Videos
-
-![inline](room.jpg)
-
-Easily create captions using [inline] images/videos with text underneath.
+- We Work with the Campus Community
+- Work with Local Agencies
 
 ---
 
