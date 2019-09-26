@@ -5,9 +5,9 @@ slidenumbers: true
 
 ### Mike Wilson, APSU GIS Director
 
-
 #### wilsonm@apsu.edu
 #### (931) 221-7500
+
 
 ---
 
@@ -72,6 +72,8 @@ slidenumbers: true
 
 - Your campus with either have a policy or will have one soon.
 
+![inline](policy.png)
+
 ---
 
 # Where do drones fit on your campus?
@@ -79,9 +81,19 @@ slidenumbers: true
 - At APSU - UAV are a tool not a science
 - We Work with the Campus Community
 - Work with Local Agencies
+  - Manhunts
+  - Missing Child
+  - Disaster Response
+  - Industrial Development
+  - InnovaTN (innovatn.org)
 
 ---
 
 # Questions?
+
+
+#### wilsonm@apsu.edu
+#### (931) 221-7500
+
 
 
