@@ -1,9 +1,38 @@
 footer: © APSU GIS Center 2020
 slidenumbers: true
 
-# Introduction to GIS
+# GIS Training
 
 ---
+
+## Introduction
+
+---
+
+## What is GIS?
+
+---
+
+## GIS Data
+
+---
+
+## Intro to Google Earth
+
+---
+
+## Intro to QGIS
+
+---
+
+## GIS and Mobile Devices
+
+---
+
+## Questions
+
+---
+
 
 ## Preparing slides for your class doesn’t have to be an endless chore.
 ## Here are a few Deckset features that will help you get the most out of your slides.
