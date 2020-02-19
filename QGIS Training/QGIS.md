@@ -9,7 +9,46 @@ slidenumbers: true
 
 ---
 
+## Who am I?
+
+![left, 25%, original](assets/profilepic.jpg)
+
+- GIS Director at Austin Peay State University
+- Over 20 years experience in GIS and Technology
+- Worked Extensively with First Responders
+
+---
+
+## Training Goals
+
+- Learn about GIS Basics
+- Better Utilize Google Earth
+- Learn about the basics of using QGIS
+- Use Data on Mobile
+
+---
+
 ## What is GIS?
+
+![right, 100%, original](assets/gislayers.jpg)
+
+### A Definition:
+
+**A system designed to create, store, manipulate, analyze, manage, and present all types of geographical data.**
+
+GIS Components:
+- Hardware
+- software
+- Data
+- Workflows
+- People
+
+---
+
+## What is GIS?
+
+### Examples of GIS
+
 
 ---
 
