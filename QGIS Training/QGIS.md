@@ -30,13 +30,17 @@ slidenumbers: true
 
 ## What is GIS?
 
+---
+
+## What is GIS? - A Definition
+
 ![right, 100%, original](assets/gislayers.jpg)
 
-### A Definition:
 
 **A system designed to create, store, manipulate, analyze, manage, and present all types of geographical data.**
 
 GIS Components:
+
 - Hardware
 - software
 - Data
@@ -45,14 +49,44 @@ GIS Components:
 
 ---
 
-## What is GIS?
+## What is GIS? - Examples of GIS
 
-### Examples of GIS
+Some Examples Include:
 
+- Google Maps
+- 911 Systems
+- Online Maps
+- Google Earth
+- Custom GIS Software
+
+---
+
+## What is GIS? - GIS Software
+
+Commercial vs Open Source
+
+![70%, original](assets/QGIS.png)
+![70%, original](assets/esri.png)
 
 ---
 
 ## GIS Data
+
+---
+
+## GIS Data - Data Types
+
+---
+
+## GIS Data - Databases
+
+---
+
+## GIS Data - Data Availability
+
+---
+
+## GIS Data - Data Formats
 
 ---
 
